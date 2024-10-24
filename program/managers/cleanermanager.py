@@ -27,5 +27,3 @@ class Cleaner():
 
 
 
-cleaner = Cleaner()
-cleaner.clean_recycle_bin()

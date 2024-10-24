@@ -60,5 +60,3 @@ class TaskManager():
         else:
             print("yok")
         
-
-

@@ -25,4 +25,5 @@ class StartupManager():
             print(f"{app_name} could't be found!")
         except Exception as e:
             print(f"Error! Message -> {e}")
-
+# print(StartupManager().get_startup_apps())
+# # StartupManager().remove_startup_app_by_name("OneDrive")
